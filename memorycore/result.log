@@ -1,0 +1,15 @@
+bottle: image_auroc = 100.000,pixel_aurco = 98.409
+cable: image_auroc = 94.397,pixel_aurco = 96.438
+capsule: image_auroc = 86.119,pixel_aurco = 98.613
+carpet: image_auroc = 97.833,pixel_aurco = 98.900
+grid: image_auroc = 80.952,pixel_aurco = 93.146
+hazelnut: image_auroc = 100.000,pixel_aurco = 98.660
+leather: image_auroc = 100.000,pixel_aurco = 99.121
+metal_nut: image_auroc = 97.996,pixel_aurco = 97.905
+pill: image_auroc = 92.226,pixel_aurco = 96.950
+screw: image_auroc = 87.538,pixel_aurco = 98.437
+tile: image_auroc = 100.000,pixel_aurco = 95.459
+toothbrush: image_auroc = 83.333,pixel_aurco = 97.845
+transistor: image_auroc = 91.750,pixel_aurco = 89.533
+wood: image_auroc = 98.333,pixel_aurco = 92.355
+zipper: image_auroc = 95.614,pixel_aurco = 97.797

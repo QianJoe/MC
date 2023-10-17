@@ -1,0 +1,19 @@
+dataset:
+  path: /public/home/mcao/usr/zzy/project/datasets/mvtec_anomaly_detection
+  classname: screw
+  image_size: 256
+  train_batch_size: 16
+  test_batch_size: 1
+  num_workers: 8
+
+model:
+  backbone: wide_resnet50_2
+  pre_trained: true
+  layers:
+   # - layer1
+    - layer2
+    - layer3
+  loop: 8
+  shot: 8
+project:
+  seed: 42

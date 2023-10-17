@@ -1,0 +1,9 @@
+opnecv-python
+pandas
+tqdm
+albumentations
+kornia
+timm
+omegaconf
+openpyxl
+easydict
